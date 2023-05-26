@@ -1,0 +1,6 @@
+*/*.out
+*.fits
+*.csv
+*.ipynb_checkpoints
+*DS_Store
+*.npz
